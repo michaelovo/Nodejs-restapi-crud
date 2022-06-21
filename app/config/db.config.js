@@ -1,6 +1,6 @@
 module.exports = {
     HOST: "localhost",
     USER: "root",
-    PASSWORD: "prof@dgp.com",
+    PASSWORD: "",
     DB: "nodeCrudeApi_db"
 };
